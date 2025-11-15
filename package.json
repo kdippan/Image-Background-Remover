@@ -1,0 +1,19 @@
+{
+  "name": "ai-background-remover",
+  "version": "1.0.0",
+  "description": "Professional AI-powered background remover tool",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -p 8000",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "background-remover",
+    "ai",
+    "image-editor",
+    "pwa"
+  ],
+  "author": "KDippan",
+  "license": "MIT"
+}
